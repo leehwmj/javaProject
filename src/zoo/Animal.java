@@ -1,4 +1,4 @@
-package life;
+package zoo;
 
 public class Animal {
     String name;

@@ -1,4 +1,4 @@
-package life;
+package zoo;
 
 public class ZooKeeper {
     public void feed(Predator predator) {
